@@ -1,0 +1,35 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-workspace
+
+# Node / tooling (only if you later add a build step)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+dist/
+build/
+
+# Logs and temp
+*.log
+*.tmp
+.cache/
+
+# Local environment / secrets
+.env
+.env.*
+
+# Aseptiq exports (user setups — keep them out of version control by default)
+aseptiq-setup*.json
