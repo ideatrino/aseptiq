@@ -44,9 +44,7 @@ The optimizer is a greedy, μ-parameterized search: it repeatedly adds the contr
 4. Press **Optimize protocol**.
 5. Read the recommended protocol and the diagnostics. Export your setup as JSON to save or share it.
 
-## Host it for free
 
-Push this repo to GitHub, then in **Settings → Pages**, set the source to your default branch. GitHub Pages serves `index.html` at `https://<your-username>.github.io/aseptiq/` at no cost.
 
 ## Disclaimer
 
